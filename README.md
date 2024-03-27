@@ -6,6 +6,8 @@
 
 公式来自[**这里**](https://www.bilibili.com/read/cv20061259/)
 
+[**B站专栏**](https://www.bilibili.com/read/cv33421271)
+
 ## 安装
 
 直接下载zip包，启动exe
