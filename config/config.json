@@ -1,0 +1,28 @@
+{
+    "UserSetting": {
+        "SCORE_MISSION_MAX": 3000000,
+        "SCORE_EX_MAX": 3000000,
+        "SCORE_CP_MAX": 3000000,
+        "SCORE_MATCH_MAX": 3000000,
+        "SCORE_TEAM_MAX": 3000000,
+        "SCORE_MEDLEY_MAX": 2500000,
+        "SCORE_MIN_DEATH": 0,
+        "SCORE_MIN": 10000,
+        "SCORE_MIN_MEDLEY": 18500,
+        "STEP_MAX": 1000,
+        "UP_RATE_MAX": 4.25
+    },
+    "DefaultSetting": {
+        "SCORE_MISSION_MAX": 3000000,
+        "SCORE_EX_MAX": 3000000,
+        "SCORE_CP_MAX": 3000000,
+        "SCORE_MATCH_MAX": 3000000,
+        "SCORE_TEAM_MAX": 3000000,
+        "SCORE_MEDLEY_MAX": 2500000,
+        "SCORE_MIN_DEATH": 0,
+        "SCORE_MIN": 10000,
+        "SCORE_MIN_MEDLEY": 18500,
+        "STEP_MAX": 1000,
+        "UP_RATE_MAX": 4.25
+    }
+}
