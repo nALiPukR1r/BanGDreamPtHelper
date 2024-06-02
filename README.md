@@ -1,4 +1,4 @@
-# 邦邦控分机1.0 - BanGDream Pt Contorl Hepler 1.0
+# 邦邦控分机1.0 - BanGDream Pt Control Hepler 1.0
 
 发现控分要去研究公式，虽然很简单，于是折腾了一下代码。
 
