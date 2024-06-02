@@ -1,4 +1,4 @@
-# 邦邦控分机1.0
+# 邦邦控分机1.0 - BanGDream Pt Contorl Hepler 1.0
 
 发现控分要去研究公式，虽然很简单，于是折腾了一下代码。
 
@@ -7,6 +7,8 @@
 公式来自[**这里**](https://www.bilibili.com/read/cv20061259/)
 
 [**B站专栏**](https://www.bilibili.com/read/cv33421271)
+
+**For English version, please see below.**
 
 ## 安装
 
@@ -50,5 +52,11 @@
   * 即当剩余值大于最低值时，就可以完成
   * 若该值小于最低值，则整除pt数少打一把，剩余的数量为ptLeft + ptper；这时将这部分重新划分为最低值+差值，不断提高最低值（+1）同时差值下降，直到找到差值可以一把完成的分数，同时较小值的部分也不会太高
   * 若在第一种情况中，剩余值虽然大于最低值，但是对于0加成队伍来说过高，那么也按照上面的办法做
-  
+
+## In English
+This is an English version, if you are English speaker and don't know what this program is, but you notice the name of this repo contains BanGDream, ok just let me briefly introduce it.
+This repo make a program which can help bangdream player to control the event pt to some exact number you want, like 114514 or some, if you are curious about it, you can refer to this webpage(Chinese) [About what is pt control in bangdream](https://www.bilibili.com/read/cv20061259/). You can just provide the current pt and your target to this program, and select the event type, different event types will need different data to calculate the results.
+The result will give how much fire you should use, and the score interval you should achieve.
+To see the ui of the program, check [this article](https://www.bilibili.com/read/cv33421271)
+If you really need an English version for this program, please send an issue in this repo, I will consider if there is someone ask me to do it :)
   
