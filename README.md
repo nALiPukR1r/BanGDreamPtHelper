@@ -54,9 +54,14 @@
   * 若在第一种情况中，剩余值虽然大于最低值，但是对于0加成队伍来说过高，那么也按照上面的办法做
 
 ## In English
+
 This is an English version, if you are English speaker and don't know what this program is, but you notice the name of this repo contains BanGDream, ok just let me briefly introduce it.
+
 This repo make a program which can help bangdream player to control the event pt to some exact number you want, like 114514 or some, if you are curious about it, you can refer to this webpage(Chinese) [About what is pt control in bangdream](https://www.bilibili.com/read/cv20061259/). You can just provide the current pt and your target to this program, and select the event type, different event types will need different data to calculate the results.
+
 The result will give how much fire you should use, and the score interval you should achieve.
+
 To see the ui of the program, check [this article](https://www.bilibili.com/read/cv33421271)
+
 If you really need an English version for this program, please send an issue in this repo, I will consider if there is someone ask me to do it :)
   
